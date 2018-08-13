@@ -6,4 +6,4 @@ Written entirely in elm.
 
 Still very much a WIP, will hopefully complete when I have more time.
 
-Try it out at https://rubinmarty.github.io/iconic.elm/
+Try it out at https://rubinmarty.github.io/Iconic/
